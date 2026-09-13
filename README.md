@@ -29,3 +29,5 @@ To see all options:
 ```cmd
 python discord_backup.py --help
 ```
+
+<!-- verified: 2026-09-13 -->
