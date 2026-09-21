@@ -30,4 +30,4 @@ To see all options:
 python discord_backup.py --help
 ```
 
-<!-- verified: 2026-09-20 -->
+<!-- verified: 2026-09-21 -->
